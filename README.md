@@ -5,4 +5,8 @@
 Bibliografía recomendada
 
 [R para Ciencia de Datos de Garrett Grolemund y Hadley Wickham](https://es.r4ds.hadley.nz/)
+
 [Predictive Soil Mapping with R](https://soilmapper.org/)
+
+Archivos para la descarga
+https://zenodo.org/record/3271412
